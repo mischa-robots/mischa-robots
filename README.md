@@ -1,6 +1,8 @@
-## 👋 Hi, I’m Mischa and I build robots ... that draw color lines on canvas.
+## 👋 Hi, I’m Mischa and I build robots ... with AI ... that draw color lines on canvas.
 
 I call that "robot art" :)
+
+![Robots](https://github.com/mischa-robots/robot_navigation/blob/main/assets/robots01.jpg)
 
 - 👀 I’m interested in art, robots, ai and web3
 - 🌱 I’m currently learning everything that is required to build autonomous robots on web3
